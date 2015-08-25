@@ -1,0 +1,9 @@
+TO DO
+Coursework:
+  Remove numbermenus in ConditionsDialog
+  Remove CurrentFile in main
+  Remove showorhide in MainWindow
+  Remove showlabels in Plotter
+  Remove errorbox in ReactionWidget
+
+  Evaluation - wait for feedback
